@@ -1,2 +1,0 @@
-webpackJsonp([0],{c27y:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"about"},[e("h1",[this._v("About this app")]),this._v(" "),e("p",[this._v("\n    vue-cliを用いたTodo管理アプリです。\n    を利用していないためページをリロードすることでリセットされます。\n  ")])])}]},i=n("VU/8")({name:"about"},s,!1,null,null,null);e.default=i.exports}});
-//# sourceMappingURL=0.63ade52847ca749d9d75.js.map
